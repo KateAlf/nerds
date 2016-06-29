@@ -1,2 +1,12 @@
 # nerds
-HTML Academy Basic Intensive Project
+*HTML Academy Basic Intensive Project*
+
+Проект типового сайта студии в рамках базового интенсива в HTML Academy.*
+
+*Технологии*
+
+* Сетка с использованием float и inline-block
+* Кастомные элементы форм
+* Валидная кроссбраузерная верстка (IE 10+)
+
+_Июнь, 2015_
